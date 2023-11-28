@@ -36,6 +36,7 @@ Description=Ping Bot Service
 After=network.target
 
 [Service]
+User=root
 ExecStart=/usr/bin/python3 /root/ping/ping.py
 WorkingDirectory=/root/ping/
 Restart=always
