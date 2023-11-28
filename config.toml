@@ -1,0 +1,12 @@
+# config.toml
+
+[telegram]
+bot_token = "YOUR_BOT_TOKEN"
+chat_id = "YOUR_CHAT_ID"
+
+[servers]
+server_list = [
+    {name = "Server 1", ip = "192.168.1.1"},
+    {name = "Server 2", ip = "8.8.8.8"},
+    {name = "Server 3", ip = "example.com"}
+]
