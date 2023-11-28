@@ -17,6 +17,16 @@ cd ~/ping
 # Add servers and telegram data to the config.toml
 nano config.toml
 ```
+![image](https://github.com/muhaylosemenyuk/ping/assets/79005788/d587c877-b9f5-429a-9387-cd340333b71c)
+
+Enter your TELEGRAM_API_KEY
+
+[How to get Telegram bot API token](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
+
+Enter your MONITORING_CHAT_ID
+
+[How to get a group chat id?](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)
+
 
 ```bash
 # Create service file
