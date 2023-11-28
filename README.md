@@ -14,7 +14,7 @@ cd ~/ping
 ```
 
 ```bash
-# Add servers to the config.toml
+# Add servers and telegram data to the config.toml
 nano config.toml
 ```
 
