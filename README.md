@@ -3,8 +3,8 @@
 ```bash
 # Update system and install python
 sudo apt update
-sudo apt install python3 python3-pip git python-telegram-bot
-pip install toml
+sudo apt install python3 python3-pip git
+sudo pip3 install python-telegram-bot toml
 ```
 
 ```bash
